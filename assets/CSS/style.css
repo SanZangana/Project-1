@@ -11,4 +11,19 @@
 body {
     font-family: merriweather sans-serif;
     font-weight: 900;
+    
+}
+h1 {
+    color:#ea1538;
+    font-family: merriweather sans-serif;
+    text-transform: uppercase;
+
+}
+ span {
+    color:black;
+}
+#logo {
+    float: left;
+    font-size: xx-large;
+
 }
